@@ -1,0 +1,2 @@
+# PKIBastionado
+Script configuración CAIntermedia.
