@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_CONTRY "ES"
+set_var EASYRSA_REQ_PROVINCE "Alicante"
+set_var EASYRSA_REQ_CITY "Alcoy"
+set_var EASYRSA_REQ_ORG "Campus Alcoy"
+set_var EASYRSA_REQ_EMAIL info@campusalcoy.com
+set_var EASYRSA_REQ_OU "Departamento Informática"
+set_var EASYRSA_ALGO "ec"
+set_var EASYRSA_DIGEST "sha512"
